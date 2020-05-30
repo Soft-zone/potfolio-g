@@ -1,0 +1,24 @@
+
+
+@media only screen and (max-width: 1025px) {
+	.fade-in-out{
+		display:none;
+	}
+	.menu-toggle{
+	display:inline-block;
+    
+    }
+	#togglemenu {
+    background: #0000008f;
+	margin-top:40px;
+}
+	.barr{
+		display:block !important;
+		box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+		width:100%;
+	}
+}
+@media screen and (max-width:768px) {
+.profile-text{
+    width:10%
+  }
